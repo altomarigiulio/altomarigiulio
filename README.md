@@ -1,6 +1,6 @@
-Projects in Java, Python, React, SQL, Php, and much more are coming soon :)
 
-<!---
+
+
 - 👋 Hi, I’m @altomarigiulio
 - 👀 I’m interested in skibidi toilet
 - 🌱 I’m currently learning how to rizz
@@ -8,6 +8,8 @@ Projects in Java, Python, React, SQL, Php, and much more are coming soon :)
 - 📫 How to reach me - @giulioaltomari
 - 😄 Pronouns: He/licopter
 
+<!---
+Projects in Java, Python, React, SQL, Php, and much more are coming soon :)
 
 altomarigiulio/altomarigiulio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
