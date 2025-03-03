@@ -2,13 +2,17 @@
 
 
 - 👋 Hi, I’m @altomarigiulio
+- 📫 How to reach me - @giulioaltomari
+
+
+<!---
+
 - 👀 I’m interested in skibidi toilet
 - 🌱 I’m currently learning how to rizz
 - 💞️ I’m looking to collaborate on mewing
 - 📫 How to reach me - @giulioaltomari
 - 😄 Pronouns: He/licopter
 
-<!---
 Projects in Java, Python, React, SQL, Php, and much more are coming soon :)
 
 altomarigiulio/altomarigiulio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
