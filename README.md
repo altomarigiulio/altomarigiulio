@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Giulio!
-- 📫 How to reach me - [altomarigiulio.com](altomarigiulio.com)
+- 📫 How to reach me - [altomarigiulio.com](https://altomarigiulio.com)
 - 🌱 I’m currently learning to fly
 
 <!---
