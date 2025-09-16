@@ -1,8 +1,8 @@
 
 
 
-- 👋 Hi, I’m @altomarigiulio
-- 📫 How to reach me - altomarigiulio.com
+- 👋 Hi, I’m Giulio!
+- 📫 How to reach me - [altomarigiulio.com](altomarigiulio.com)
 - 🌱 I’m currently learning to fly
 
 <!---
